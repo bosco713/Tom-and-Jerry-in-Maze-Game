@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"Comp3111F23G47","l":"MainManu"},{"m":"Comp3111F23G47","l":"MazeGenerate"},{"m":"Comp3111F23G47","l":"MazeGUI"},{"m":"Comp3111F23G47","l":"pathfunction"}];updateSearchResults();
