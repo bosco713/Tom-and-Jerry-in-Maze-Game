@@ -1,4 +1,4 @@
-# Maze game
+# Tom and Jerry in Maze Game
 - COMP3111 Project
 
 ## Table of Content
