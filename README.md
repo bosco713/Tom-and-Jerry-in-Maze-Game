@@ -7,8 +7,8 @@
 - [Function A](#function-a)
 - [Function B](#function-b)
 - [Function C](#function-c)
-- [Instruction]()
-- [Authors]()
+- [Instruction](#instruction)
+- [Authors](#authors)
 
 ## Overview
 This repository is a record of what our team have learnt and done in HKUST COMP3111: Software Engineering.
